@@ -1,5 +1,5 @@
 chardet==3.0.4
-Django==1.11.21
+Django==1.11.29
 idna==2.8
 psycopg2-binary==2.8.3
 pytz==2019.2
